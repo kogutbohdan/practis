@@ -1,4 +1,4 @@
-array=[i for i in range(-100,100)]
+array=[i for i in range(-int(19/2),int(19/2)]
 
 print(array)
 
